@@ -7,5 +7,7 @@ public class Test1 {
 		System.out.println("dadad");
 
 		int b = 10;
+		
+		System.out.println("=================");
 	}
 }
